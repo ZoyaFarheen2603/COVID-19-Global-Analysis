@@ -33,7 +33,7 @@ covid19-analysis-project/
 4. **Exported cleaned data** is saved to `outputs/cleaned_covid19_global.csv` for use in Power BI or Tableau.
 5. **Power BI Dashboard:**
    - Open `outputs/Covid-19 Analysis Dashboard.pbix` in Power BI Desktop to view and interact with the dashboard.
-   - A screenshot of the dashboard is also attached as `outputs/Covid-19 Data Analysis Dashboard.jpeg` for quick reference.
+   - A screenshot of the dashboard is also attached as `outputs/Covid-19 Data Analysis Dashboard.jpg` for quick reference.
 
 ## Key Features
 - Handles missing values and date parsing
